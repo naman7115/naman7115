@@ -5,7 +5,7 @@
 💞️ I’m looking to collaborate on open-source AI projects or innovative tech startups.
 📫 How to reach me: LinkedIn Profile- naman7115
 😄 Pronouns: he/him
-⚡ Fun fact: I love hiking and have climbed the highest peak in my country!
+⚡ Fun fact: I love hiking and have climbed the highest peak in my country! 
 
 <!---
 naman7115/naman7115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
